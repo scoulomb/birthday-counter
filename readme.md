@@ -61,3 +61,23 @@ I managed to put this together year ago when I didnt know any js or anything abo
 So thanks to all copepen which I copied, use few parts of.
 
 &nbsp;
+
+## my notes
+
+### vercel note
+
+I use BB acount to log into vercel
+And import third party public  github repo from there
+but timeout
+
+### Surge
+
+Surge =>  code: 'SELF_SIGNED_CERT_IN_CHAIN' due to cor renencrypt
+
+## Netlify
+
+Github or bb direct
+Or drag and drop deployment -> go from this solution !!
+
+And then follow custom domain process for cert provisioning
+Compliant with github page process
